@@ -4,18 +4,14 @@ title: About
 permalink: /about/
 ---
 
-## 关于我
+## About Me
 
-你好，我是翩帆，本科软件工程专业在读。
+I am a last year PhD student in cosmology. My research interests focus on using increasingly accurate cosmological survey data (such as CMB, BAO, etc.) to constrain theories beyond the standard model of cosmology.
 
 这是我基于 GitHub Pages 平台创建的个人博客，用于记录和分享我在技术方面的学习心得与成长收获。
 
 如果你对我的文章有任何疑问，或者发现文章中存在错误，可以通过邮件与我联系。
 
-## 版权声明
+## Copyright Notice
 
-本博客文章都是我的原创文章，版权归我所有，转载请与我联系获得授权许可。
-
-文章中若含有引用内容我都会注明来源并附上链接，笔者承诺博客文章绝不存在盗用的可能。
-
-本博客网站图标及主页头像图片均为我的原创设计作品，受到版权保护，侵权必究。
+All the articles in this blog are my original articles, and the copyright belongs to me. Please contact me for authorization if you want to reprint them.
