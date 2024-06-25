@@ -6,7 +6,9 @@ permalink: /about/
 
 ## About Me
 
-I am a last year PhD student in cosmology. My research interests focus on using increasingly accurate cosmological survey data (such as CMB, BAO, etc.) to constrain theories beyond the standard model of cosmology.
+I am a last year PhD student in cosmology. My research interests focus on using increasingly accurate cosmological survey data (such as CMB, BAO, etc.) to constrain theories beyond the standard model of cosmology. I have done some work on axion-like particles, neutrino physics, gravitational waves, and modified gravity.
+
+My INSPIRE link is: https://inspirehep.net/authors/2789730
 
 ## Copyright Notice
 
