@@ -1,5 +1,5 @@
-name: "Pianfan's blog"
-description: "翩帆的个人技术博客"
+name: "Dongdong Zhang's blog"
+description: "Dongdong Zhang's personal blog"
 
 avatar: https://pianfan.github.io/images/avatar.webp
 favicon: https://pianfan.github.io/images/favicon.ico
@@ -18,16 +18,16 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: xiongyunhan@outlook.com
+  email: donzhang1995@gmail.com
   facebook:
-  github: pianfan
+  github: D-Zhang95
   rss: # just type anything here for a working RSS icon
   twitter: 
   youtube:
 
-footer-text: Copyright (c) 2024 Pianfan
+footer-text: Copyright (c) 2024 D-Zhang95
 
-url: https://pianfan.github.io
+url: https://D-Zhang95.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
